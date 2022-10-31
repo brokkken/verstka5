@@ -2,7 +2,7 @@
     --bg: #162831;
     --white: #fff;
     --accent: #018ABE;
-    --blue05: rgba(152);
+    --blue05: hsla(197, 49%, 73%, 0.5);
 }
 
 html,
@@ -86,8 +86,8 @@ section.banner {
  width: 100%;
  height: 100%;
  top: 0;
- :left: 0;
- backgraund-color: var (--blue05);
+ left: 0;
+ background-color: var(--blue05);
  border-radius: 10px;
 
 
