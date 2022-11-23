@@ -200,3 +200,6 @@ section.banner{
 .reviews .reviewsBlock .info-block .item .text p:last-of-type{
     margin-bottom: 0;
 }
+.reviews .reviewsBlock .info-block .item.active{
+    opacity: 1;
+}
